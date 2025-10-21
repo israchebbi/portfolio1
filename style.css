@@ -199,7 +199,7 @@ section h2 {
     display: inline-block;
     padding: 0.5rem 1rem;
     background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
-    color: white;
+    color: rgb(254, 228, 252);
     border-radius: 4px;
     transition: transform 0.3s;
 }
